@@ -3783,3 +3783,25 @@ input, select, textarea {
 			}
 
 		}
+
+/* About */
+	.biosleft {
+		display: grid;
+		align-items: center; 
+		grid-template-columns: 33% auto;
+		column-gap: 10px;
+		margin-bottom: 75px;
+	}
+
+	.biosright {
+		display: grid;
+		align-items: center; 
+		grid-template-columns: auto 33%;
+		column-gap: 10px;
+		margin-bottom: 75px;
+	}
+	
+	.headshot {
+		max-width: 100%;
+		max-height:100%;
+	}
