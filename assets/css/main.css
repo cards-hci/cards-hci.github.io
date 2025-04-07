@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #eacc56;
+		background-color: #68aed1;
 		background-image: url("images/overlay.png"), linear-gradient(#68aed1, #eacc56, #e2709c);
 		background-image: url("images/overlay.png"), linear-gradient(#68aed1, #eacc56, #e2709c);
 		background-image: url("images/overlay.png"), linear-gradient(#68aed1, #eacc56, #e2709c);
@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #eacc56;
+		background-color: #68aed1;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3546,10 +3546,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #68aed1, #eacc56, #e2709c);
+			background-image: -webkit-linear-gradient(90deg, #68aed1, #eacc56, #e2709c);
+			background-image: -ms-linear-gradient(90deg, #68aed1, #eacc56, #e2709c);
+			background-image: linear-gradient(90deg, #68aed1, #eacc56, #e2709c);
 		}
 
 		#main table tbody tr {
@@ -3806,6 +3806,10 @@ input, select, textarea {
 		max-height:100%;
 	}
 
+	.imgcred {
+		font-size: 13px;
+		padding-top: 0.5mm;
+	}
 /* Projects */
 	.projdesc {
 		display: grid;
