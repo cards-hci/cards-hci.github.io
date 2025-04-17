@@ -3822,6 +3822,7 @@ input, select, textarea {
 		max-width: 100%;
 		max-height:100%;
 		margin-bottom: 0px;
+		text-align: center;
 	}
 
 	.projtitle {
