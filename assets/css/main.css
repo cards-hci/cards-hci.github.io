@@ -3837,4 +3837,13 @@ input, select, textarea {
 	.projtext {
 		margin-top: 3px;
 	}
-	
+/* Resources */
+	.resource {
+		display: grid;
+		align-items: center;
+		text-align: center;
+		grid-template-columns: 50% auto;
+		column-gap: 10px;
+		row-gap: 40px;
+	}
+
