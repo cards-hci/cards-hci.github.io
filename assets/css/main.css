@@ -2676,7 +2676,7 @@ input, select, textarea {
 		margin-top: 3em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 500px) {
 
 		header.major {
 			margin-bottom: 0;
